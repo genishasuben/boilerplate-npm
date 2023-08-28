@@ -1,6 +1,7 @@
 {
 	"author": "Jane Doe",
 	"description": "A project that does something awesome",
+	"license": "MIT",
 	"keywords": [
 		"freecodecamp",
 		"related",
